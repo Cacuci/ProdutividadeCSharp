@@ -2,8 +2,9 @@
 
 using Strings;
 
-var livro = new Interpolacao();
+var conversao = new Conversao();
 
-livro.InterpolarStringsComCifrao();
+conversao.ConversaoArrayDeBytesParaString();
 
+Console.WriteLine("Pressione qualquer teclas para continuar...");
 Console.ReadKey();

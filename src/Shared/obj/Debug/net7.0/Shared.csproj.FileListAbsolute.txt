@@ -1,0 +1,11 @@
+C:\Git\ProdutividadeCSharp\src\Shared\bin\Debug\net7.0\Shared.deps.json
+C:\Git\ProdutividadeCSharp\src\Shared\bin\Debug\net7.0\Shared.dll
+C:\Git\ProdutividadeCSharp\src\Shared\bin\Debug\net7.0\Shared.pdb
+C:\Git\ProdutividadeCSharp\src\Shared\obj\Debug\net7.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\ProdutividadeCSharp\src\Shared\obj\Debug\net7.0\Shared.AssemblyInfoInputs.cache
+C:\Git\ProdutividadeCSharp\src\Shared\obj\Debug\net7.0\Shared.AssemblyInfo.cs
+C:\Git\ProdutividadeCSharp\src\Shared\obj\Debug\net7.0\Shared.csproj.CoreCompileInputs.cache
+C:\Git\ProdutividadeCSharp\src\Shared\obj\Debug\net7.0\Shared.dll
+C:\Git\ProdutividadeCSharp\src\Shared\obj\Debug\net7.0\refint\Shared.dll
+C:\Git\ProdutividadeCSharp\src\Shared\obj\Debug\net7.0\Shared.pdb
+C:\Git\ProdutividadeCSharp\src\Shared\obj\Debug\net7.0\ref\Shared.dll
