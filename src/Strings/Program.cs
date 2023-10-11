@@ -2,9 +2,10 @@
 
 using Strings;
 
-var conversao = new Conversao();
+var result = new Particionamento();
 
-conversao.ConversaoArrayDeBytesParaString();
+result.ParticianamentoSimples();
 
+Console.WriteLine();
 Console.WriteLine("Pressione qualquer teclas para continuar...");
 Console.ReadKey();
